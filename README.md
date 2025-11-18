@@ -1,4 +1,4 @@
-**IBM Applied Data Science Capstone: Falcon 9 First Stage Landing Prediction**
+# IBM Applied Data Science Capstone: Falcon 9 First Stage Landing Prediction
 This project aims to predict whether SpaceX's Flacon 9 first stage will land successfully. The ability to predict a successful landing can significantly decrease the cost of the launch, as the first stage can be reused. 
 
 **Project Labs**
